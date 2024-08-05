@@ -32,7 +32,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 
 2. Scan or pair to get session ID
     <br>
-<a href='https://fearless-session-2-hnwo.onrender.com/' target="_blank"><img alt='Get your bot Session ID' src='https://img.shields.io/badge/Get-your-bot-Session_ID-1000000?style=for-the-badge&logo=scan&logoColor=red&labelColor=black&color=red'/></a>
+<a href='https://fearless-session-2-hnwo.onrender.com/' target="_blank"><img alt='Get your bot Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=black&color=red'/></a>
 
 #### DEPLOY STEPS
 
